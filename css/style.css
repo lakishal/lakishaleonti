@@ -1,0 +1,115 @@
+@import 
+url('https://fonts.googleapis.com/css?family=Love+Ya+Like+A+Sister');
+
+/**{font-family: 'Love Ya Like A Sister', cursive;
+}*/
+
+h1 {
+    font-family: 'Love Ya Like A Sister', cursive;
+    text-align: center;
+    background: transparent;
+    color: #813772;
+    font-weight: bold;
+}
+
+h2 {
+    font-family: 'Love Ya Like A Sister', cursive;
+    text-align: center;
+    background: transparent;
+    color: #813772;
+}
+
+body {
+    background-image: url("../images/pavement.jpg");
+}
+
+.nav {
+    font-family: 'Love Ya Like A Sister', cursive;
+    background: transparent;
+    float: right;
+    font-weight: bolder;
+    border: 5px #813772 solid;
+    border-radius: 15px;
+    color: #813772;
+   
+}    
+
+.intro-text {
+    font-family: 'Love Ya Like A Sister', cursive;
+    text-align: center;
+    background: transparent;
+    margin-bottom: 15px;
+    display: flex;
+}
+
+#intro-image {
+    border: 5px #813772 solid;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 15px;
+
+}
+
+
+.middle {
+    font-family: 'Love Ya Like A Sister', cursive;
+    text-align: center;
+    background: transparent;
+    margin-bottom: 15px;
+}
+
+footer {
+    font-family: 'Love Ya Like A Sister', cursive;
+    text-align: center;
+    background: transparent;
+}
+
+.box3 {
+     display: inline-block;
+     border: 5px #813772 solid;
+     border-radius: 15px;
+     margin-bottom: 10px;
+     
+}
+     
+p {
+    font-weight: bold;
+}
+
+/*I will build many sites*/
+
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    width: 200px;
+    background-color: transparent;
+
+}
+
+/*coding is fun, I can't wait to continue learning other languages*/
+
+li a {
+    display: block;
+    color: #000;
+    padding: 8px 16px;
+   
+}
+
+ul li {
+     list-style-type:  none;
+     color:  #813772;
+}
+
+/* Change the link color on hover */
+li a:hover {
+    background-color: #132df0;
+    color: #813772;
+}
+
+#body {
+    background-color: rgba(255,255,255,.5)
+}
+
+/*I loved learning about styling with css*/
